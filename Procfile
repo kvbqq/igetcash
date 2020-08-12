@@ -1,1 +1,1 @@
-web: python telegrambot.py ${PORT}
+web: python telegrambot.py $8080
