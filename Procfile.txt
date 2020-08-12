@@ -1,1 +1,0 @@
-web: gunicorn igetcash.wsgi --log-file -
